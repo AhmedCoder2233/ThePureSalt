@@ -24,27 +24,27 @@ const THEME = {
 
 const heroSlides = [
   {
-    src: 'https://i.ibb.co/V0bWD8h4/edible6.jpg',
+    src: '/edible6.jpeg',
     productId: 'edible-fine', // Gourmet Edible Salt
   },
   {
-    src: 'https://i.ibb.co/gLKW3Sq8/decor1.jpg',
+    src: '/decor1.jpeg',
     productId: 'natural-lamp', // Home & Decor
   },
   {
-    src: 'https://i.ibb.co/kstFhCDS/spa2.jpg',
+    src: '/spa2.jpeg',
     productId: 'bath-salt', // Spa & Wellness
   },
   {
-    src: 'https://i.ibb.co/p5yyyY8/kitchen1.jpg',
+    src: '/kitchen1.jpeg',
     productId: 'cooking-slab', // Kitchen & Culinary
   },
   {
-    src: 'https://i.ibb.co/CKYzVTT9/salturn2.jpg',
+    src: '/salturn2.jpeg',
     productId: 'salt-urns', // Salt Urns
   },
   {
-    src: 'https://i.ibb.co/fYpfZwK1/animal5.jpg',
+    src: '/animal5.jpeg',
     productId: 'animal-lick', // Animal Lick
   },
 ];
