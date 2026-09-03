@@ -43,10 +43,10 @@ export const products = [
     name: "Fine Grain Edible Salt",
     category: "Gourmet Edible Salt",
     image:
-      "https://i.ibb.co/V0bWD8h4/edible6.jpg", // grain-size progression bowls (fine end)
+      "/edible6.jpeg", // grain-size progression bowls (fine end)
     gallery: [
-      "https://i.ibb.co/XZ25HqyK/edible9.jpg", // fine salt in wooden bowl w/ burlap sacks
-      "https://i.ibb.co/2YdLgZg3/edible8.jpg", // fine powder scoop
+      "/edible9.jpeg", // fine salt in wooden bowl w/ burlap sacks
+      "/edible8.jpeg", // fine powder scoop
     ],
     shortDesc: "Food-grade fine Himalayan pink salt for everyday cooking and seasoning.",
     longDesc:
@@ -61,7 +61,7 @@ export const products = [
         colors: ["Light Pink"],
         moq: "1 Ton",
         image:
-          "https://i.ibb.co/XZ25HqyK/edible9.jpg",
+          "/edible9.jpeg",
         specs: {
           "Grain Size": "0.1 – 0.5 mm",
           "NaCl Content": "98.35%",
@@ -80,7 +80,7 @@ export const products = [
         colors: ["Dark Pink"],
         moq: "1 Ton",
         image:
-          "https://i.ibb.co/2YdLgZg3/edible8.jpg",
+          "/edible8.jpeg",
         specs: {
           "Grain Size": "0.1 – 0.5 mm",
           "NaCl Content": "97.5%",
@@ -99,7 +99,7 @@ export const products = [
         colors: ["White"],
         moq: "1 Ton",
         image:
-          "https://i.ibb.co/V0bWD8h4/edible6.jpg",
+          "/edible6.jpeg",
         specs: {
           "Grain Size": "0.1 – 0.5 mm",
           "NaCl Content": "99.2%",
@@ -118,7 +118,7 @@ export const products = [
         colors: ["Light Pink", "White"],
         moq: "1 Ton",
         image:
-          "https://i.ibb.co/XZ25HqyK/edible9.jpg",
+          "/edible9.jpeg",
         specs: {
           "Grain Size": "0.1 – 0.5 mm",
           Iodine: "30-40 ppm KIO3",
@@ -137,10 +137,10 @@ export const products = [
     name: "Coarse Grain Edible Salt",
     category: "Gourmet Edible Salt",
     image:
-      "https://i.ibb.co/wNWKLw6Q/edible4.jpg", // large pile of coarse crystals
+      "/edible4.jpeg", // large pile of coarse crystals
     gallery: [
-      "https://i.ibb.co/vC24h7KC/edible7.jpg", // wooden spoon with coarse crystals
-      "https://i.ibb.co/VsVZs60/edible2.jpg", // bowl of coarse pink salt
+      "/edible7.jpeg", // wooden spoon with coarse crystals
+      "/edible2.jpeg", // bowl of coarse pink salt
     ],
     shortDesc: "Premium coarse Himalayan pink salt ideal for grinders and gourmet use.",
     longDesc:
@@ -155,7 +155,7 @@ export const products = [
         colors: ["Light Pink", "Dark Pink"],
         moq: "1 Ton",
         image:
-          "https://i.ibb.co/VsVZs60/edible2.jpg",
+          "/edible2.jpeg",
         specs: { "Grain Size": "2 – 5 mm", NaCl: "98%", "Best For": "Salt grinders", Packaging: "Bulk & retail" },
       },
       {
@@ -167,7 +167,7 @@ export const products = [
         colors: ["Light Pink", "Dark Pink", "White"],
         moq: "1 Ton",
         image:
-          "https://i.ibb.co/wNWKLw6Q/edible4.jpg",
+          "/edible4.jpeg",
         specs: { "Grain Size": "3 – 8 mm", NaCl: "98%", "Best For": "Display & premium retail" },
       },
       {
@@ -179,7 +179,7 @@ export const products = [
         colors: ["Light Pink", "Dark Pink"],
         moq: "1 Ton",
         image:
-          "https://i.ibb.co/vC24h7KC/edible7.jpg",
+          "/edible7.jpeg",
         specs: { "Grain Size": "1 – 2 mm", NaCl: "98%", "Best For": "Rubs & blends" },
       },
     ],
@@ -192,10 +192,10 @@ export const products = [
     name: "Pink Salt Lumps & Chunks",
     category: "Gourmet Edible Salt",
     image:
-      "https://i.ibb.co/XZ25HqyK/edible9.jpg", // burlap sacks with raw chunks
+      "/edible9.jpeg", // burlap sacks with raw chunks
     gallery: [
-      "https://i.ibb.co/4R28fbk6/edible5.jpg", // bowls + raw chunks nearby
-      "https://i.ibb.co/wNWKLw6Q/edible4.jpg", // large crystal pile
+      "/edible5.jpeg", // bowls + raw chunks nearby
+      "/edible4.jpeg", // large crystal pile
     ],
     shortDesc: "Raw Himalayan salt chunks for sole water, grinders, and decor.",
     longDesc:
@@ -210,7 +210,7 @@ export const products = [
         colors: ["Light Pink", "Dark Pink", "White"],
         moq: "1 Ton",
         image:
-          "https://i.ibb.co/4R28fbk6/edible5.jpg",
+          "/edible5.jpeg",
         specs: { "Chunk Size": "2 – 5 cm", State: "100% raw", "Best For": "Sole water & jars" },
       },
       {
@@ -222,7 +222,7 @@ export const products = [
         colors: ["Light Pink", "Dark Pink"],
         moq: "1 Ton",
         image:
-          "https://i.ibb.co/XZ25HqyK/edible9.jpg",
+          "/edible9.jpeg",
         specs: { "Chunk Size": "5 – 10 cm", State: "100% raw", "Best For": "Wellness & display" },
       },
       {
@@ -234,7 +234,7 @@ export const products = [
         colors: ["Dark Pink", "Orange"],
         moq: "2 Tons",
         image:
-          "https://i.ibb.co/wNWKLw6Q/edible4.jpg",
+          "/edible4.jpeg",
         specs: { "Chunk Size": "10 – 20 cm", State: "100% raw", "Best For": "Lamp crafting" },
       },
     ],
@@ -247,9 +247,9 @@ export const products = [
     name: "Himalayan Black Salt (Kala Namak)",
     category: "Gourmet Edible Salt",
     image:
-      "https://i.ibb.co/VWTxdyxG/edible1.jpg", // dark reddish-brown raw chunks in bag - actual black salt look
+      "/edible1.jpeg", // dark reddish-brown raw chunks in bag - actual black salt look
     gallery: [
-      "https://i.ibb.co/WNvLRp1V/edible3.jpg", // 6-bowl comparison incl. dark/black salt bowl
+      "/edible3.jpeg", // 6-bowl comparison incl. dark/black salt bowl
     ],
     shortDesc: "Traditional Kala Namak with distinctive sulfurous flavor.",
     longDesc:
@@ -264,7 +264,7 @@ export const products = [
         colors: ["Dark Purple-Black"],
         moq: "500 kg",
         image:
-          "https://i.ibb.co/WNvLRp1V/edible3.jpg",
+          "/edible3.jpeg",
         specs: { Grain: "0.1 – 0.5 mm", Color: "Dark purple-black", Flavor: "Strong sulfurous", "Best For": "Chaat & vegan eggs" },
       },
       {
@@ -276,7 +276,7 @@ export const products = [
         colors: ["Dark Purple-Black"],
         moq: "500 kg",
         image:
-          "https://i.ibb.co/VWTxdyxG/edible1.jpg",
+          "/edible1.jpeg",
         specs: { Grain: "2 – 5 mm", Color: "Dark purple-black", "Best For": "Grinders & restaurants" },
       },
       {
@@ -288,7 +288,7 @@ export const products = [
         colors: ["Dark Brown-Black"],
         moq: "1 Ton",
         image:
-          "https://i.ibb.co/VWTxdyxG/edible1.jpg",
+          "/edible1.jpeg",
         specs: { Size: "Raw chunks", Color: "Dark brown-black", "Best For": "Ayurvedic & traditional" },
       },
     ],
@@ -303,11 +303,11 @@ export const products = [
     name: "Natural Shape Salt Lamps",
     category: "Home & Decor",
     image:
-      "https://i.ibb.co/gLKW3Sq8/decor1.jpg", // clean single natural lamp w/ plants
+      "/decor1.jpeg", // clean single natural lamp w/ plants
     gallery: [
-      "https://i.ibb.co/dwQs57ny/decor10.jpg", // assorted lit lamps
-      "https://i.ibb.co/0pSc4z1B/decor9.jpg", // two lamps lit side by side
-      "https://i.ibb.co/wFZK57gp/decor8.jpg", // many lamps market display
+      "/decor10.jpeg", // assorted lit lamps
+      "/decor9.jpeg", // two lamps lit side by side
+      "/decor8.jpeg", // many lamps market display
     ],
     shortDesc: "Hand-selected natural shape salt lamps with warm amber glow.",
     longDesc:
@@ -322,7 +322,7 @@ export const products = [
         colors: ["Light Pink", "Orange", "Dark Pink"],
         moq: "500 pcs",
         image:
-          "https://i.ibb.co/pjMWfKns/decor6.jpg",
+          "/decor6.jpeg",
         specs: { Weight: "2 – 3 kg", Coverage: "~50 sq ft", Base: "Neem wood", Bulb: "15W incandescent", Cord: "6ft UL-certified" },
       },
       {
@@ -334,7 +334,7 @@ export const products = [
         colors: ["Light Pink", "Orange", "Dark Pink"],
         moq: "500 pcs",
         image:
-          "https://i.ibb.co/0pSc4z1B/decor9.jpg",
+          "/decor9.jpeg",
         specs: { Weight: "3 – 5 kg", Coverage: "~80 sq ft", Base: "Neem wood", Bulb: "15W incandescent", Cord: "6ft UL-certified" },
       },
       {
@@ -346,7 +346,7 @@ export const products = [
         colors: ["Light Pink", "Orange", "Dark Pink"],
         moq: "300 pcs",
         image:
-          "https://i.ibb.co/dwQs57ny/decor10.jpg",
+          "/decor10.jpeg",
         specs: { Weight: "5 – 7 kg", Coverage: "~150 sq ft", Base: "Neem wood", Bulb: "25W incandescent" },
       },
       {
@@ -358,7 +358,7 @@ export const products = [
         colors: ["Light Pink", "Orange", "Dark Pink"],
         moq: "200 pcs",
         image:
-          "https://i.ibb.co/wFZK57gp/decor8.jpg",
+          "/decor8.jpeg",
         specs: { Weight: "7 – 10 kg", Coverage: "~200 sq ft", Base: "Neem wood", Bulb: "25W incandescent" },
       },
       {
@@ -370,7 +370,7 @@ export const products = [
         colors: ["Orange", "Dark Pink"],
         moq: "100 pcs",
         image:
-          "https://i.ibb.co/gLKW3Sq8/decor1.jpg",
+          "/decor1.jpeg",
         specs: { Weight: "10 – 15 kg", Coverage: "~300 sq ft", Base: "Premium neem" },
       },
       {
@@ -382,7 +382,7 @@ export const products = [
         colors: ["Orange", "Dark Pink"],
         moq: "50 pcs",
         image:
-          "https://i.ibb.co/wFZK57gp/decor8.jpg",
+          "/decor8.jpeg",
         specs: { Weight: "15 – 25 kg", Coverage: "~400 sq ft", Grade: "Collectors premium" },
       },
     ],
@@ -395,10 +395,10 @@ export const products = [
     name: "Crafted & Shaped Salt Lamps",
     category: "Home & Decor",
     image:
-      "https://i.ibb.co/hxNqGyrQ/decor3.jpg", // cone-shaped lamp with wire spiral stand
+      "/decor3.jpeg", // cone-shaped lamp with wire spiral stand
     gallery: [
-      "https://i.ibb.co/Dfb2McVB/decor2.jpg", // mushroom-shaped lamp
-      "https://i.ibb.co/2YksK6jt/decor11.jpg", // chain-link wire basket lamp
+      "/decor2.jpeg", // mushroom-shaped lamp
+      "/decor11.jpeg", // chain-link wire basket lamp
     ],
     shortDesc: "Hand-carved geometric and artistic shapes.",
     longDesc: "Meticulously hand-carved by skilled artisans into spheres, pyramids, hearts, and custom designs.",
@@ -412,7 +412,7 @@ export const products = [
         colors: ["Pink", "Orange"],
         moq: "200 pcs",
         image:
-          "https://i.ibb.co/Dfb2McVB/decor2.jpg",
+          "/decor2.jpeg",
         specs: { Shape: "Perfect sphere", Weight: "3 – 7 kg", Finish: "Smooth polished" },
       },
       {
@@ -424,7 +424,7 @@ export const products = [
         colors: ["Pink", "Orange"],
         moq: "200 pcs",
         image:
-          "https://i.ibb.co/hxNqGyrQ/decor3.jpg",
+          "/decor3.jpeg",
         specs: { Shape: "Pyramid", Weight: "3 – 7 kg", Finish: "Smooth polished" },
       },
       {
@@ -436,7 +436,7 @@ export const products = [
         colors: ["Pink", "Dark Pink"],
         moq: "200 pcs",
         image:
-          "https://i.ibb.co/JjfgWwjj/decor4.jpg",
+          "/decor4.jpeg",
         specs: { Shape: "Heart", Weight: "3 – 5 kg", "Best For": "Gift market" },
       },
       {
@@ -448,7 +448,7 @@ export const products = [
         colors: ["Pink", "Orange"],
         moq: "200 pcs",
         image:
-          "https://i.ibb.co/2YksK6jt/decor11.jpg",
+          "/decor11.jpeg",
         specs: { Shape: "Designer wire-frame", Weight: "2 – 5 kg", Custom: "Available on request" },
       },
     ],
@@ -461,9 +461,9 @@ export const products = [
     name: "USB Salt Lamps & Night Lights",
     category: "Home & Decor",
     image:
-      "https://i.ibb.co/pjMWfKns/decor6.jpg", // lamp with visible power cord/USB style
+      "/decor6.jpeg", // lamp with visible power cord/USB style
     gallery: [
-      "https://i.ibb.co/PZ6z34M3/decor5.jpg", // moon-shaped lamp on bedside table
+      "/decor5.jpeg", // moon-shaped lamp on bedside table
     ],
     shortDesc: "Compact USB-powered salt lamps and night lights.",
     longDesc: "Portable Himalayan salt lights that plug into any USB port. Perfect for travel, office desks, or bedside tables.",
@@ -477,7 +477,7 @@ export const products = [
         colors: ["Pink", "White"],
         moq: "500 pcs",
         image:
-          "https://i.ibb.co/pjMWfKns/decor6.jpg",
+          "/decor6.jpeg",
         specs: { Power: "USB 5V", Weight: "0.5 – 1 kg", LED: "Warm white" },
       },
       {
@@ -489,7 +489,7 @@ export const products = [
         colors: ["Pink", "Orange"],
         moq: "500 pcs",
         image:
-          "https://i.ibb.co/PZ6z34M3/decor5.jpg",
+          "/decor5.jpeg",
         specs: { Power: "Direct socket / USB", Weight: "0.5 – 1 kg", Bulb: "LED 2W", Shape: "Crescent moon" },
       },
     ],
@@ -502,9 +502,9 @@ export const products = [
     name: "Salt Candle & Tea Light Holders",
     category: "Home & Decor",
     image:
-      "https://i.ibb.co/R4BJV5nG/decor7.jpg", // natural rock with glowing tea light inside
+      "/decor7.jpeg", // natural rock with glowing tea light inside
     gallery: [
-      "https://i.ibb.co/JjfgWwjj/decor4.jpg", // heart-shaped lamp (heart holder reference)
+      "/decor4.jpeg", // heart-shaped lamp (heart holder reference)
     ],
     shortDesc: "Hand-carved candle holders in natural and geometric shapes.",
     longDesc: "When a tea light is placed inside, they emit a beautiful warm glow that creates a calming ambiance.",
@@ -518,7 +518,7 @@ export const products = [
         colors: ["Pink", "Orange", "White"],
         moq: "500 pcs",
         image:
-          "https://i.ibb.co/R4BJV5nG/decor7.jpg",
+          "/decor7.jpeg",
         specs: { Holes: "1", Weight: "1 – 2 kg", "Tea Light": "Standard size" },
       },
       {
@@ -530,7 +530,7 @@ export const products = [
         colors: ["Pink", "Orange"],
         moq: "300 pcs",
         image:
-          "https://i.ibb.co/R4BJV5nG/decor7.jpg",
+          "/decor7.jpeg",
         specs: { Holes: "3", Weight: "2 – 3 kg", "Best For": "Table centerpiece" },
       },
       {
@@ -542,7 +542,7 @@ export const products = [
         colors: ["Pink", "Dark Pink"],
         moq: "300 pcs",
         image:
-          "https://i.ibb.co/JjfgWwjj/decor4.jpg",
+          "/decor4.jpeg",
         specs: { Shape: "Heart", Weight: "1 – 2 kg", "Best For": "Gift market" },
       },
     ],
@@ -557,10 +557,10 @@ export const products = [
     name: "Bath Salt & Salt Scrubs",
     category: "Spa & Wellness",
     image:
-      "https://i.ibb.co/kstFhCDS/spa2.jpg", // massage tool assortment + granules
+      "/spa2.jpeg", // massage tool assortment + granules
     gallery: [
-      "https://i.ibb.co/C3Qvj66b/spa3.jpg", // spiral roller / assorted tools
-      "https://i.ibb.co/LDmSRn6R/spa4.jpg", // grid-textured tool
+      "/spa3.jpeg", // spiral roller / assorted tools
+      "/spa4.jpeg", // grid-textured tool
     ],
     shortDesc: "Therapeutic bath salts for detox, relaxation, and skin wellness.",
     longDesc:
@@ -575,7 +575,7 @@ export const products = [
         colors: ["Light Pink", "Dark Pink", "White"],
         moq: "500 kg",
         image:
-          "https://i.ibb.co/kstFhCDS/spa2.jpg",
+          "/spa2.jpeg",
         specs: { Grain: "0.5 – 1 mm", "Dissolve Time": "Fast", Use: "½ cup per bath" },
       },
       {
@@ -587,7 +587,7 @@ export const products = [
         colors: ["Light Pink", "Dark Pink"],
         moq: "500 kg",
         image:
-          "https://i.ibb.co/C3Qvj66b/spa3.jpg",
+          "/spa3.jpeg",
         specs: { Grain: "2 – 5 mm", "Dissolve Time": "Slow", "Best For": "Foot soaks & jars" },
       },
       {
@@ -599,7 +599,7 @@ export const products = [
         colors: ["Custom colored"],
         moq: "300 kg",
         image:
-          "https://i.ibb.co/LDmSRn6R/spa4.jpg",
+          "/spa4.jpeg",
         specs: { Fragrances: "Lavender, Rose, Eucalyptus, Mint", Custom: "Available", "Private Label": "Yes" },
       },
       {
@@ -611,7 +611,7 @@ export const products = [
         colors: ["Pink", "White"],
         moq: "300 kg",
         image:
-          "https://i.ibb.co/kstFhCDS/spa2.jpg",
+          "/spa2.jpeg",
         specs: { Type: "Salt + oil blend", Grain: "Fine exfoliant", "Private Label": "Yes" },
       },
     ],
@@ -624,10 +624,10 @@ export const products = [
     name: "Salt Massage Stones",
     category: "Spa & Wellness",
     image:
-      "https://i.ibb.co/LDmSRn6R/spa4.jpg", // grid-textured massage roller tool
+      "/spa4.jpeg", // grid-textured massage roller tool
     gallery: [
-      "https://i.ibb.co/kstFhCDS/spa2.jpg", // roller/spiral massage tool
-      "https://i.ibb.co/C3Qvj66b/spa3.jpg", // assorted massage stone shapes
+      "/spa2.jpeg", // roller/spiral massage tool
+      "/spa3.jpeg", // assorted massage stone shapes
     ],
     shortDesc: "Warm salt massage stones for spa and home therapy.",
     longDesc:
@@ -642,7 +642,7 @@ export const products = [
         colors: ["Pink", "Orange"],
         moq: "500 pcs",
         image:
-          "https://i.ibb.co/C3Qvj66b/spa3.jpg",
+          "/spa3.jpeg",
         specs: { Shape: "Half sphere", "Heat Retention": "20+ min", Surface: "Polished smooth" },
       },
       {
@@ -654,7 +654,7 @@ export const products = [
         colors: ["Pink"],
         moq: "500 pcs",
         image:
-          "https://i.ibb.co/LDmSRn6R/spa4.jpg",
+          "/spa4.jpeg",
         specs: { Shape: "Grooved roller", "Best For": "Foot & body massage", Surface: "Textured grip" },
       },
       {
@@ -666,7 +666,7 @@ export const products = [
         colors: ["Pink", "Orange"],
         moq: "100 sets",
         image:
-          "https://i.ibb.co/kstFhCDS/spa2.jpg",
+          "/spa2.jpeg",
         specs: { Pieces: "6 mixed shapes", Packaging: "Presentation box", Market: "Professional spas" },
       },
     ],
@@ -679,9 +679,9 @@ export const products = [
     name: "Salt Bricks, Tiles & Blocks",
     category: "Spa & Wellness",
     image:
-      "https://i.ibb.co/CKLqQ2wC/spa1.jpg", // backlit salt brick wall
+      "/spa1.jpeg", // backlit salt brick wall
     gallery: [
-      "https://i.ibb.co/CKLqQ2wC/spa1.jpg",
+      "/spa1.jpeg",
     ],
     shortDesc: "Precision-cut salt bricks for salt rooms, walls & spas.",
     longDesc:
@@ -696,7 +696,7 @@ export const products = [
         colors: ["Pink", "Orange", "White"],
         moq: "1000 pcs",
         image:
-          "https://i.ibb.co/CKLqQ2wC/spa1.jpg",
+          "/spa1.jpeg",
         specs: { Dimensions: "8 × 4 × 2 inch", Finish: "Smooth all sides", "Per Sq Ft": "~4.5 bricks" },
       },
       {
@@ -708,7 +708,7 @@ export const products = [
         colors: ["Pink", "Orange", "White"],
         moq: "1000 pcs",
         image:
-          "https://i.ibb.co/CKLqQ2wC/spa1.jpg",
+          "/spa1.jpeg",
         specs: { Dimensions: "8 × 4 × 1 inch", Weight: "50% lighter than brick", "Best For": "Wall veneer" },
       },
       {
@@ -720,7 +720,7 @@ export const products = [
         colors: ["Pink", "White"],
         moq: "500 pcs",
         image:
-          "https://i.ibb.co/CKLqQ2wC/spa1.jpg",
+          "/spa1.jpeg",
         specs: { Dimensions: "12 × 12 × 2 inch", "Load Rating": "Foot traffic rated", "Best For": "Salt room floors" },
       },
     ],
@@ -735,11 +735,11 @@ export const products = [
     name: "Cooking Slabs & Blocks",
     category: "Kitchen & Culinary",
     image:
-      "https://i.ibb.co/p5yyyY8/kitchen1.jpg", // steak on salt block, grilling
+      "/kitchen1.jpeg", // steak on salt block, grilling
     gallery: [
-      "https://i.ibb.co/5WcBbc6S/kitchen2.jpg", // chicken & veg on salt block, fire
-      "https://i.ibb.co/C3jmfJGV/kitchen5.jpg", // burgers on salt block, grill
-      "https://i.ibb.co/0RT42SH7/kitchen3.jpg", // block with metal tray holder
+      "/kitchen2.jpeg", // chicken & veg on salt block, fire
+      "/kitchen5.jpeg", // burgers on salt block, grill
+      "/kitchen3.jpeg", // block with metal tray holder
     ],
     shortDesc: "Salt blocks for grilling, searing, chilling & serving.",
     longDesc: "Cut and polished from solid salt crystal slabs. Heat on a grill for searing or chill for serving sushi and cheese.",
@@ -753,7 +753,7 @@ export const products = [
         colors: ["Pink"],
         moq: "300 pcs",
         image:
-          "https://i.ibb.co/5WcBbc6S/kitchen2.jpg",
+          "/kitchen2.jpeg",
         specs: { Dimensions: "8 × 12 × 2 inch", "Heat Tolerance": "400°F+", Reusable: "Yes, 20+ uses" },
       },
       {
@@ -765,7 +765,7 @@ export const products = [
         colors: ["Pink"],
         moq: "200 pcs",
         image:
-          "https://i.ibb.co/C3jmfJGV/kitchen5.jpg",
+          "/kitchen5.jpeg",
         specs: { Diameter: "10 inch", Thickness: "2 inch", "Best For": "Cold serving" },
       },
       {
@@ -777,7 +777,7 @@ export const products = [
         colors: ["Pink"],
         moq: "100 pcs",
         image:
-          "https://i.ibb.co/zVC99qn5/kitchen6.jpg",
+          "/kitchen6.jpeg",
         specs: { Includes: "Block + steel frame", "Best For": "Restaurant tableside", Presentation: "Premium" },
       },
     ],
@@ -790,10 +790,10 @@ export const products = [
     name: "Tequila Shot Glasses",
     category: "Kitchen & Culinary",
     image:
-      "https://i.ibb.co/Z6MYr048/kitchen10.jpg", // 4 shot glasses closeup
+      "/kitchen10.jpeg", // 4 shot glasses closeup
     gallery: [
-      "https://i.ibb.co/gLXvQhwY/kitchen9.jpg", // assorted small carved vessels
-      "https://i.ibb.co/rfQNqbSr/kitchen7.jpg", // single mortar & pestle
+      "/kitchen9.jpeg", // assorted small carved vessels
+      "/kitchen7.jpeg", // single mortar & pestle
     ],
     shortDesc: "Hand-carved salt shot glasses for tequila and spirits.",
     longDesc: "Carved from solid Himalayan pink salt, adding a salty rim flavor to every sip. Each glass is unique in color.",
@@ -807,7 +807,7 @@ export const products = [
         colors: ["Pink", "Orange"],
         moq: "200 sets",
         image:
-          "https://i.ibb.co/Z6MYr048/kitchen10.jpg",
+          "/kitchen10.jpeg",
         specs: { Pieces: "4", Volume: "1 oz each", Material: "100% Himalayan salt", Reusable: "15+ uses per glass" },
       },
       {
@@ -819,7 +819,7 @@ export const products = [
         colors: ["Pink", "Orange"],
         moq: "150 sets",
         image:
-          "https://i.ibb.co/gLXvQhwY/kitchen9.jpg",
+          "/kitchen9.jpeg",
         specs: { Pieces: "Assorted vessels", Volume: "1 oz each", Packaging: "Gift box available" },
       },
       {
@@ -831,7 +831,7 @@ export const products = [
         colors: ["Pink"],
         moq: "200 pcs",
         image:
-          "https://i.ibb.co/NnFPLgGT/kitchen8.jpg",
+          "/kitchen8.jpeg",
         specs: { Material: "Solid Himalayan salt", Function: "Grind + season", "Best For": "Kitchen accessory" },
       },
     ],
@@ -846,9 +846,9 @@ export const products = [
     name: "Bulk & Industrial Salt",
     category: "Bulk & Industrial Salt",
     image:
-      "https://i.ibb.co/B2HtTy4L/bulk4.jpg", // large outdoor raw pile
+      "/bulk4.jpeg", // large outdoor raw pile
     gallery: [
-      "https://i.ibb.co/mCy6JtTQ/bulk1.jpg", // chunks on sack
+      "/bulk1.jpeg", // chunks on sack
     ],
     shortDesc: "Bulk salt in 10kg-1 ton bags for industrial use.",
     longDesc: "Available in industrial quantities for food processors, manufacturers, and large-scale operations.",
@@ -862,7 +862,7 @@ export const products = [
         colors: ["Light Pink", "Dark Pink", "White"],
         moq: "1 Ton",
         image:
-          "https://i.ibb.co/0znkz1v/bulk2.jpg",
+          "/bulk2.jpeg",
         specs: { Bag: "PP woven + liner", Print: "Custom available", "Per Container": "~800 bags (20ft)" },
       },
       {
@@ -874,7 +874,7 @@ export const products = [
         colors: ["Light Pink", "Dark Pink", "White"],
         moq: "5 Tons",
         image:
-          "https://i.ibb.co/B2HtTy4L/bulk4.jpg",
+          "/bulk4.jpeg",
         specs: { Container: "FIBC big bag", Lifting: "4-point forklift loops", "Per Container": "~24 bags (20ft)", Cost: "Best per-kg rate" },
       },
     ],
@@ -887,9 +887,9 @@ export const products = [
     name: "Lake Salt (Solar)",
     category: "Bulk & Industrial Salt",
     image:
-      "https://i.ibb.co/mCy6JtTQ/bulk1.jpg", // pile on sack
+      "/bulk1.jpeg", // pile on sack
     gallery: [
-      "https://i.ibb.co/0znkz1v/bulk2.jpg", // close-up raw chunks
+      "/bulk2.jpeg", // close-up raw chunks
     ],
     shortDesc: "Solar-evaporated lake salt for industrial applications.",
     longDesc: "Harvested through natural solar evaporation from mineral-rich salt lakes.",
@@ -903,7 +903,7 @@ export const products = [
         colors: ["White", "Off-white"],
         moq: "5 Tons",
         image:
-          "https://i.ibb.co/0znkz1v/bulk2.jpg",
+          "/bulk2.jpeg",
         specs: { Source: "Solar evaporated", NaCl: "99%+", "Best For": "Industrial" },
       },
       {
@@ -915,7 +915,7 @@ export const products = [
         colors: ["White"],
         moq: "5 Tons",
         image:
-          "https://i.ibb.co/mCy6JtTQ/bulk1.jpg",
+          "/bulk1.jpeg",
         specs: { Source: "Solar evaporated", Grain: "Coarse", "Best For": "Water treatment & de-icing" },
       },
     ],
@@ -930,10 +930,10 @@ export const products = [
     name: "Himalayan Salt Urns",
     category: "Salt Urns",
     image:
-      "https://i.ibb.co/CKYzVTT9/salturn2.jpg", // 5-piece urn assortment, black bg
+      "/salturn2.jpeg", // 5-piece urn assortment, black bg
     gallery: [
-      "https://i.ibb.co/yFyXyrSZ/salturn1.jpg", // large + small urn, grey bg
-      "https://i.ibb.co/tp5ZpBz8/salturn3.jpg", // shelf full of urns
+      "/salturn1.jpeg", // large + small urn, grey bg
+      "/salturn3.jpeg", // shelf full of urns
     ],
     shortDesc: "Hand-carved Himalayan salt urns for decor and ceremonial use.",
     longDesc:
@@ -948,7 +948,7 @@ export const products = [
         colors: ["Light Pink", "Orange"],
         moq: "300 pcs",
         image:
-          "https://i.ibb.co/yFyXyrSZ/salturn1.jpg",
+          "/salturn1.jpeg",
         specs: { Weight: "2 – 3 kg", Finish: "Smooth polished", "Best For": "Tabletop display" },
       },
       {
@@ -960,7 +960,7 @@ export const products = [
         colors: ["Light Pink", "Dark Pink"],
         moq: "200 pcs",
         image:
-          "https://i.ibb.co/tp5ZpBz8/salturn3.jpg",
+          "/salturn3.jpeg",
         specs: { Weight: "4 – 6 kg", Finish: "Smooth polished", "Lighting Option": "Internal bulb available" },
       },
       {
@@ -972,7 +972,7 @@ export const products = [
         colors: ["Dark Pink", "Orange"],
         moq: "100 pcs",
         image:
-          "https://i.ibb.co/CKYzVTT9/salturn2.jpg",
+          "/salturn2.jpeg",
         specs: { Weight: "7 – 10 kg", Finish: "Hand-polished", "Best For": "Premium & ceremonial display" },
       },
     ],
@@ -987,10 +987,10 @@ export const products = [
     name: "Animal Lick Salt",
     category: "Animal Lick",
     image:
-      "https://i.ibb.co/fYpfZwK1/animal5.jpg", // horse actually eating the salt lick - best hero shot
+      "/animal5.jpeg", // horse actually eating the salt lick - best hero shot
     gallery: [
-      "https://i.ibb.co/YsSFwNs/animal4.jpg", // round block with rope, table
-      "https://i.ibb.co/YFpTL9j3/animal6.jpg", // round block with rope, table
+      "/animal4.jpeg", // round block with rope, table
+      "/animal6.jpeg", // round block with rope, table
     ],
     shortDesc: "Natural salt licks for horses, cattle, and livestock.",
     longDesc: "100% natural mineral supplement for livestock with 84+ trace minerals for electrolyte balance and hydration.",
@@ -1004,7 +1004,7 @@ export const products = [
         colors: ["Pink", "Dark Pink"],
         moq: "1 Ton",
         image:
-          "https://i.ibb.co/7dhhCLxX/animal3.jpg",
+          "/animal3.jpeg",
         specs: { Weight: "1 – 2 kg", Attachment: "Rope included", "Best For": "Small animals" },
       },
       {
@@ -1016,7 +1016,7 @@ export const products = [
         colors: ["Pink", "Dark Pink"],
         moq: "1 Ton",
         image:
-          "https://i.ibb.co/YsSFwNs/animal4.jpg",
+          "/animal4.jpeg",
         specs: { Weight: "3 – 5 kg", Durability: "2-4 months outdoor", "Best For": "Horses & cattle" },
       },
       {
@@ -1028,7 +1028,7 @@ export const products = [
         colors: ["Pink"],
         moq: "1 Ton",
         image:
-          "https://i.ibb.co/YFpTL9j3/animal6.jpg",
+          "/animal6.jpeg",
         specs: { Weight: "5 kg", Shape: "Square compressed", Density: "High — lasts longer", Durability: "3-6 months" },
       },
       {
@@ -1040,7 +1040,7 @@ export const products = [
         colors: ["Pink"],
         moq: "1 Ton",
         image:
-          "https://i.ibb.co/G4jQC2xr/animal2.jpg",
+          "/animal2.jpeg",
         specs: { Weight: "25 kg", Shape: "Large square block", Durability: "6-12 months", "Best For": "Large herds" },
       },
     ],
